@@ -6,7 +6,7 @@ Collaborators
 
 [ZZZ-Bin](https://github.com/ZZZ-Bin) (已背叛)
 
-[zhaoziyichou](https://github.com/zhaoziyichou)
+# [zhaoziyichou](https://github.com/zhaoziyichou)
 
 [songda1013](https://github.com/songda1013/)
 
