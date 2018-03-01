@@ -4,7 +4,7 @@
 Collaborators
 <br/>
 
-[ZZZ-Bin](https://github.com/ZZZ-Bin) 
+[ZZZ-Bin](https://github.com/ZZZ-Bin) (已背叛)
 
 [zhaoziyichou](https://github.com/zhaoziyichou)
 
