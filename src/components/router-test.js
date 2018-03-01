@@ -8,6 +8,7 @@ const RouterTest = () => (
             <Link to="/">热门电影</Link>
             <Link to="/Bpage">美剧</Link>
             <Link to="/Cpage">日本电影</Link>
+            <Link to="/Dpage">韩剧</Link>
         </div>
     </div>
 )

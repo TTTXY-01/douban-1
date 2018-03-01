@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Link }from "react-router-dom";
 import Apage from './components/Apage';
 import Bpage from './components/Bpage';
 import Cpage from './components/Cpage';
+import Dpage from './components/Dpage';
 import RouterTest from './components/router-test';
 import "./assets/style/App.css";
 //导出
@@ -15,6 +16,7 @@ class App extends Component {
           <Route exact path="/" component={Apage} />
           <Route path="/Bpage" component={Bpage} />
           <Route path="/Cpage" component={Cpage} />
+          <Route path="/Dpage" component={Dpage} />
         </div>
       </Router>
     )
